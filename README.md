@@ -1,6 +1,6 @@
 # ESP32 Pulse Water Meter
 
-The following schematic and YAML are for building and configuring a pulse water meter reader using an ESP32 board and [ESPHome](https://esphome.io/).
+The following schematic and YAML are for building and configuring a pulse water meter reader using an ESP32 board and [ESPHome](https://esphome.io/). Watch the build on [YouTube](https://youtu.be/UIU_M9MApd0).
 
 ## Schematic
 The schematic is using the ESP32-WROOM DevKitC board since it contains an external antenna connection.
